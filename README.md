@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi, I’m Eliud Koto  
 
-<!--
-**eliud-koto/eliud-koto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Data Scientist and AI Researcher** with over **3 years of industry experience** and a strong academic foundation in **Machine Learning, Natural Language Processing, and AI for Science**. I am currently pursuing a **Master’s degree in Mathematical Sciences (AI for Science)** at the **African Institute for Mathematical Sciences (AIMS), Cape Town** (Stellenbosch University), under the **Google DeepMind Scholarship**.
 
-Here are some ideas to get you started:
+My work sits at the intersection of **theory and practice**. I enjoy building models from first principles and understanding the mathematical intuition behind algorithms. During my academic research, I designed and implemented a **movie recommender system from scratch**, and contributed to **SemEval NLP research** focused on **semantic analysis and polarization in African and other low-resource languages**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Professionally, I have worked as a **Data Scientist at Onfon Mobile**, where I now contribute **part-time as an AI Researcher**, developing machine learning models, conducting applied AI research, and delivering data-driven solutions using **Python, PySpark, Tableau, and Power BI**. Previously, I worked as a **Data Analyst at Infotrace Analytics**, supporting decision-making through analytics, visualization, and data-driven strategy.
+
+I am particularly interested in:
+- Machine Learning & Representation Learning  
+- Natural Language Processing 
+- Reinforcement Learning  
+- Recommender systems  
+- Responsible and decentralized AI  
